@@ -107,7 +107,7 @@ section {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("res/udon.jpg");
+    background-image: url("/Webapp/recipe/public/udon.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
